@@ -19,8 +19,10 @@ Or install it yourself as:
     $ gem install ak_view_tool
 
 ## Usage
+```ruby
+AKViewTool::Renderer.copyright 'Aniket', 'All right reserved'
+```
 
-TODO: Write usage instructions here
 
 ## Development
 
